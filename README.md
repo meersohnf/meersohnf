@@ -6,7 +6,6 @@ I combine my clinical laboratory background with bioinformatics, using R and Pyt
 
 
 ## Programming Languages  
-
 - R (Seurat, SpotSweeper, ggplot2, Bioconductor)
 - Python (pandas, NumPy, PyTorch)
 - SQL
@@ -18,12 +17,12 @@ I combine my clinical laboratory background with bioinformatics, using R and Pyt
 - Clustering workflows
 
 ## Experience
-
 - Spatial transcriptomics analysis with 10x Genomics Visium
 - Clinical laboratory work in blood bank, flow cytometry, and immunology
 - QC, data analysis, and workflow support in fast-paced lab environments
 
-Fun Fact: I am fluent in three languages  
+## Fun Fact: 
+-I am fluent in three languages  
 
 ## Connect
 - LinkedIn: www.linkedin.com/in/francisco-m-37220a205
