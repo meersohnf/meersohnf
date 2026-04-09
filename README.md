@@ -22,7 +22,7 @@ I combine my clinical laboratory background with bioinformatics, using R and Pyt
 - QC, data analysis, and workflow support in fast-paced lab environments
 
 ## Fun Fact: 
--I am fluent in three languages  
+- I am fluent in three languages  
 
 ## Connect
 - LinkedIn: www.linkedin.com/in/francisco-m-37220a205
