@@ -17,23 +17,13 @@ I combine my clinical laboratory background with bioinformatics, using R and Pyt
 - Single-cell RNA-seq
 - Clustering workflows
 
-## Background
-
-- M.S. in Bioinformatics — Virginia Commonwealth University
-- B.S. in Medical Laboratory Sciences, Minor in Chemistry
-- MLS(ASCP) certified
-
 ## Experience
 
 - Spatial transcriptomics analysis with 10x Genomics Visium
 - Clinical laboratory work in blood bank, flow cytometry, and immunology
 - QC, data analysis, and workflow support in fast-paced lab environments
 
-## Languages
-
-- English
-- Spanish
-- German
+Fun Fact: I am fluent in three languages  
 
 ## Connect
 - LinkedIn: www.linkedin.com/in/francisco-m-37220a205
